@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="productModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="purchase">
+    <Key>
+      <PropertyRef Name="pur_id" />
+    </Key>
+    <Property Name="pur_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pur_no" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="total_amount" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityType Name="purchase_product">
+    <Key>
+      <PropertyRef Name="pur_pro_id" />
+    </Key>
+    <Property Name="pur_pro_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pur_id" Type="Int32" Nullable="false" />
+    <Property Name="item" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="qty" Type="Int32" Nullable="false" />
+    <Property Name="amount" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="productEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="purchases" EntityType="Self.purchase" />
+    <EntitySet Name="purchase_product" EntityType="Self.purchase_product" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,332 @@
+﻿++Solution 'SampleWebApi-12' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:SampleWebApi-12.sln
+++classADO-12
+i:{00000000-0000-0000-0000-000000000000}:classADO-12
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++Properties
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:d:\jainish\internship 2\classado-12\properties\
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\properties\
+++References
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++test.cs
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:d:\jainish\internship 2\classado-12\test.cs
+++AssemblyInfo.cs
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:d:\jainish\internship 2\classado-12\properties\assemblyinfo.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\properties\assemblyinfo.cs
+++Microsoft.CSharp
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Core
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Data
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Data.DataSetExtensions
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Net.Http
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Xml
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Xml.Linq
+i:{14f8428f-64e0-498e-b877-abad6d83c787}:
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++SampleWebApi-12
+i:{00000000-0000-0000-0000-000000000000}:SampleWebApi-12
+++App_Data
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\app_data\
+++App_Start
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\app_start\
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\app_start\
+++Areas
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\
+++Content
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\
+++Controllers
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\controllers\
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\controllers\
+++HomeController.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\controllers\homecontroller.cs
+++purchaseProductController.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\controllers\purchaseproductcontroller.cs
+++ValuesController.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\controllers\valuescontroller.cs
+++fonts
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\fonts\
+++Models
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\models\
+++Model.edmx
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\model.edmx
+++Model.Context.tt
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\model.context.tt
+++Model.Context.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\model.context.cs
+++Model.Designer.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\model.designer.cs
+++Model.edmx.diagram
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\model.edmx.diagram
+++Model.tt
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\model.tt
+++Model.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\model.cs
+++purchase.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\purchase.cs
+++purchase_product.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\models\purchase_product.cs
+++Scripts
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\
+++Views
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\views\
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\
+++favicon.ico
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\favicon.ico
+++Global.asax
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\global.asax
+++packages.config
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\packages.config
+++Web.config
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\web.config
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\views\web.config
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\web.config
+++Antlr3.Runtime
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++EntityFramework
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++EntityFramework.SqlServer
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++Microsoft.Web.Infrastructure
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++Newtonsoft.Json
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.ComponentModel.DataAnnotations
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Configuration
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Drawing
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Net.Http.Formatting
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Net.Http.WebRequest
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Runtime.Serialization
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Security
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.Abstractions
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.ApplicationServices
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.Entity
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.Helpers
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.Http
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.Http.WebHost
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.Mvc
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.Optimization
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.Razor
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.Routing
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.WebPages
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.WebPages.Deployment
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++System.Web.WebPages.Razor
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++WebGrease
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:
+++BundleConfig.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\app_start\webapiconfig.cs
+++HelpPage
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\
+++bootstrap-theme.css
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\bootstrap.css
+++bootstrap.css.map
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\bootstrap.css.map
+++bootstrap.min.css
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\bootstrap.min.css.map
+++Site.css
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\content\site.css
+++glyphicons-halflings-regular.eot
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\bootstrap.js
+++bootstrap.min.js
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\scripts\modernizr-2.8.3.js
+++Home
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\views\home\
+++Shared
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\views\shared\
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\shared\
+++_ViewStart.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\views\_viewstart.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\_viewstart.cshtml
+++Global.asax.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\global.asax.cs
+++Web.Debug.config
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\web.debug.config
+++Web.Release.config
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\web.release.config
+++ModelDescriptions
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\
+++SampleGeneration
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\samplegeneration\
+++ApiDescriptionExtensions.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\apidescriptionextensions.cs
+++HelpPage.css
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\helppage.css
+++HelpPageAreaRegistration.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\helppagearearegistration.cs
+++HelpPageConfigurationExtensions.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\helppageconfigurationextensions.cs
+++XmlDocumentationProvider.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\xmldocumentationprovider.cs
+++Index.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\views\home\index.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\index.cshtml
+++_Layout.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\views\shared\_layout.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\shared\_layout.cshtml
+++Error.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\views\shared\error.cshtml
+++HelpPageConfig.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\app_start\helppageconfig.cs
+++HelpController.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\controllers\helpcontroller.cs
+++CollectionModelDescription.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\collectionmodeldescription.cs
+++ComplexTypeModelDescription.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\complextypemodeldescription.cs
+++DictionaryModelDescription.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\dictionarymodeldescription.cs
+++EnumTypeModelDescription.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\enumtypemodeldescription.cs
+++EnumValueDescription.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\enumvaluedescription.cs
+++IModelDocumentationProvider.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\imodeldocumentationprovider.cs
+++KeyValuePairModelDescription.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\keyvaluepairmodeldescription.cs
+++ModelDescription.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\modeldescription.cs
+++ModelDescriptionGenerator.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\modeldescriptiongenerator.cs
+++ModelNameAttribute.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\modelnameattribute.cs
+++ModelNameHelper.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\modelnamehelper.cs
+++ParameterAnnotation.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\parameterannotation.cs
+++ParameterDescription.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\parameterdescription.cs
+++SimpleTypeModelDescription.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\modeldescriptions\simpletypemodeldescription.cs
+++HelpPageApiModel.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\models\helppageapimodel.cs
+++HelpPageSampleGenerator.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\samplegeneration\helppagesamplegenerator.cs
+++HelpPageSampleKey.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\samplegeneration\helppagesamplekey.cs
+++ImageSample.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\samplegeneration\imagesample.cs
+++InvalidSample.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\samplegeneration\invalidsample.cs
+++ObjectGenerator.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\samplegeneration\objectgenerator.cs
+++SampleDirection.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\samplegeneration\sampledirection.cs
+++TextSample.cs
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\samplegeneration\textsample.cs
+++Help
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\
+++DisplayTemplates
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\
+++Api.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\api.cshtml
+++ResourceModel.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\resourcemodel.cshtml
+++ApiGroup.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\apigroup.cshtml
+++CollectionModelDescription.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\collectionmodeldescription.cshtml
+++ComplexTypeModelDescription.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\complextypemodeldescription.cshtml
+++DictionaryModelDescription.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\dictionarymodeldescription.cshtml
+++EnumTypeModelDescription.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\enumtypemodeldescription.cshtml
+++HelpPageApiModel.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\helppageapimodel.cshtml
+++ImageSample.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\imagesample.cshtml
+++InvalidSample.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\invalidsample.cshtml
+++KeyValuePairModelDescription.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\keyvaluepairmodeldescription.cshtml
+++ModelDescriptionLink.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\modeldescriptionlink.cshtml
+++Parameters.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\parameters.cshtml
+++Samples.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\samples.cshtml
+++SimpleTypeModelDescription.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\simpletypemodeldescription.cshtml
+++TextSample.cshtml
+i:{57d6da26-d2c6-457f-8dc5-32cbfaba5a68}:d:\jainish\internship 2\samplewebapi-12\areas\helppage\views\help\displaytemplates\textsample.cshtml

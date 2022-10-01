@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57d6da26-d2c6-457f-8dc5-32cbfaba5a68": {
+      "ProjectGuid": "57d6da26-d2c6-457f-8dc5-32cbfaba5a68",
+      "DisplayName": "SampleWebApi-12",
+      "ColorIndex": 0
+    },
+    "14f8428f-64e0-498e-b877-abad6d83c787": {
+      "ProjectGuid": "14f8428f-64e0-498e-b877-abad6d83c787",
+      "DisplayName": "classADO-12",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

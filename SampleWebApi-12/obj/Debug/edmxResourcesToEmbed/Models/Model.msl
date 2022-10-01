@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="productModelStoreContainer" CdmEntityContainer="productEntities1">
+    <EntitySetMapping Name="purchases">
+      <EntityTypeMapping TypeName="productModel.purchase">
+        <MappingFragment StoreEntitySet="purchase">
+          <ScalarProperty Name="pur_id" ColumnName="pur_id" />
+          <ScalarProperty Name="pur_no" ColumnName="pur_no" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="total_amount" ColumnName="total_amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="purchase_product">
+      <EntityTypeMapping TypeName="productModel.purchase_product">
+        <MappingFragment StoreEntitySet="purchase_product">
+          <ScalarProperty Name="pur_pro_id" ColumnName="pur_pro_id" />
+          <ScalarProperty Name="pur_id" ColumnName="pur_id" />
+          <ScalarProperty Name="item" ColumnName="item" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
